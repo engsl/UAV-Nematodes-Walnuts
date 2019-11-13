@@ -7,3 +7,6 @@ growers should take one canopy per picture
 softtwares used
   FLIR tools
   exiftools
+  
+Potential files used
+  pix4D
