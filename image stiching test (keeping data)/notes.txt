@@ -1,0 +1,9 @@
+image stiching
+
+growers should take one canopy per picture
+  our code could take the average temp value per photo
+  that will be that temp total per image -csv
+  
+softtwares used
+  FLIR tools
+  exiftools
