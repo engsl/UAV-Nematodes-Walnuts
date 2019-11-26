@@ -1,0 +1,14 @@
+esl notes
+	cut everything execpt blue out of a picture
+	take average  color value of blue
+	compare?
+
+    #Nathan Edwards
+
+https://www.youtube.com/watch?v=CCOXg75HkvM
+
+http://blog.christianperone.com/2014/06/simple-and-effective-coin-segmentation-using-python-and-opencv/
+
+https://i.stack.imgur.com/gyuw4.png hue chart
+
+https://www.learnopencv.com/invisibility-cloak-using-color-detection-and-segmentation-with-opencv/ invisibility cloak
